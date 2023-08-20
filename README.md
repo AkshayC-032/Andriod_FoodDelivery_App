@@ -1,6 +1,6 @@
 # Andriod_FoodDelivery_App 
 ![Image 1](https://github.com/AkshayC-032/Andriod_FoodDelivery_App/assets/116095614/99cc0b92-f764-479b-a2c7-bc8f2a95029a)
-<img src="https://github.com/AkshayC-032/Andriod_FoodDelivery_App/assets/116095614/99cc0b92-f764-479b-a2c7-bc8f2a95029a" width="300" height="200">
+<img src="https://github.com/AkshayC-032/Andriod_FoodDelivery_App/assets/116095614/99cc0b92-f764-479b-a2c7-bc8f2a95029a" width="200" height="100">
 
 ![Image 2](https://github.com/AkshayC-032/Andriod_FoodDelivery_App/assets/116095614/26bb078f-471d-4a04-91b6-19cbe510327a)
 <img src="https://github.com/AkshayC-032/Andriod_FoodDelivery_App/assets/116095614/26bb078f-471d-4a04-91b6-19cbe510327a" width="300" height="200">
